@@ -2,3 +2,7 @@ The purpose of this program is to create a basic computer game utilizing a varie
 The most important variables used in this program were the class and import variables.
 The class definition allowed for the recognition of specific classes of affiliated subjects.
 The import directive allowed for the importing of necessary mathematical functions to complete the assignment.
+When applied to the Treasure file this allowed for all important terms to be properly defined.
+Regarding problems, I was unable to determine a functional method of implementing a Player file.
+All attempts at creating a Player class were unable to properly be defined separate from the Treasure class.
+In turn this prevented further completion of the assignment regarding the design of levels and the placement of objects relative to the player.
